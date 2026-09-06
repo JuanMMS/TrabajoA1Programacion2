@@ -2,6 +2,9 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola soy dev_valeria");
+
+        System.out.println("Hola! Soy dev_Juanma");
+        System.out.println("Hola! Soy dev_Sebas");
+        System.out.println("Hola! Soy dev_Camilo");
     }
 }
